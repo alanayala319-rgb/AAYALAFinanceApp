@@ -46,7 +46,7 @@ fun TransactionsSectionHeader(onSeeAllClick: () -> Unit) {
         }
     }
 }
-
+//
 @Composable
 fun TransactionItem(transaction: Transaction) {
     val rawFormatted = if (transaction.amount < 0) {
