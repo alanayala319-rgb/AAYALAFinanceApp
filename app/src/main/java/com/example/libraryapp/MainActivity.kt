@@ -20,7 +20,7 @@ import com.example.libraryapp.componentes.SummarySection
 import com.example.libraryapp.componentes.TransactionItem
 import com.example.libraryapp.componentes.TransactionsSectionHeader
 import com.example.libraryapp.ui.theme.LibraryAppTheme
-
+//as
 val sampleUser = User(name = "Alan", balance = 0.0)
 
 val sampleTransactions = listOf(
